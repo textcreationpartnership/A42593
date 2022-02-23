@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gemitus ecclesiae Cambro-Britannicae, or, The candlesticks removed by the ejectment of the ministers of Wales under the power of the late act for the propagation of the Gospell there being a declaration to all Christian people and more especially the reverend ministers of England, expressing the sad condition of the severall parishes 2nd ejected ministers in that countrey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42593</idno>
+            <idno type="STC">Wing G483</idno>
+            <idno type="STC">ESTC R25456</idno>
+            <idno type="EEBO-CITATION">08963348</idno>
+            <idno type="OCLC">ocm 08963348</idno>
+            <idno type="VID">42119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42119)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1285:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gemitus ecclesiae Cambro-Britannicae, or, The candlesticks removed by the ejectment of the ministers of Wales under the power of the late act for the propagation of the Gospell there being a declaration to all Christian people and more especially the reverend ministers of England, expressing the sad condition of the severall parishes 2nd ejected ministers in that countrey.</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wales --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42119:1" rendition="simple:additions"/>
+            <p>
+               <hi>Gemitus Eccleſiæ Cambro-Britannicæ:</hi> OR, THE CANDLE-STICKS REMOVED, By the Ejectment of the Miniſters of <hi>WALES,</hi> under the power of the late Act, for the <hi>Propagation of the Goſpell there.</hi>
+            </p>
+            <p>Being a Declaration to All Chriſtian People, and more eſpecially the Reverend Miniſters of <hi>ENGLAND.</hi>
+            </p>
+            <p>Expreſſing the ſad Condition of the ſeverall Pariſhes, and Ejected Miniſters in that Countrey.</p>
+            <q>
+               <bibl>
+                  <hi>LAM. 1.12.</hi>
+               </bibl>
+               <p>Behold and ſee, if there be any Sorrow like unto my Sorrow, which is done unto me.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeare, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42119:2"/>
+            <pb n="1" facs="tcp:42119:2"/>
+            <head>
+               <hi>TO ALL</hi> CHRISTIAN PEOPLE, and more eſpecially to the<note n="*" place="margin">
+                  <hi>Dr.</hi> Jo. Owen <hi>Dr.</hi> Tho. Good<g ref="char:EOLhyphen"/>win.</note> Reverend Mi<g ref="char:EOLhyphen"/>niſters of the <hi>Goſpell,</hi> and other Commiſsioners appointed for the approbation of publick Preachers, withitn this <hi>Common-wealth</hi> of <hi>England,</hi> Grace and Peace be multiplied from the Authour thereof, <hi>Chriſt Jeſus</hi> our Saviour.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE poore Ejected <hi>Miniſters</hi> of <hi>Wales,</hi> (who) have long borne their Griefes in ſilence, and powred out their complaints in ſecret before the <hi>All ſeeing</hi> and <hi>All-knowing God,</hi> committing their ſad con<g ref="char:EOLhyphen"/>dition to him alone, who ſearcheth the Heart and Reynes, and will judge their Cauſe in the ballance of his Mercy, and Compaſſion, <hi>Have taken</hi> the boldneſſe with the Power of his <hi>Bleſſed Spirit</hi> to publiſh to your <hi>Chriſtian Soules,</hi> both theirs, and the ſufferings of their ſeverall <hi>Congregations, (who have often called upon them,)</hi> and to preſent the ſame unto your publique view; That the whole Nation of <hi>England,</hi> and more eſpecially their deare <hi>Breathren</hi> and <hi>Fellow-labourers</hi> in the Truth and purity of <hi>Christs Gospell,</hi> intruſted with the ſettlement of his <hi>Church-government,</hi> may take notice of the <hi>Reformation in Wales,</hi> and learne by the abuſe and miſcariages
+<pb n="2" facs="tcp:42119:3"/>of perſons impowred in that great Worke to diſcover Truth, and walke according to the <hi>Rule</hi> of <hi>Gods Spirit,</hi> diſcerning betweene the true <hi>Miniſters</hi> of the <hi>Goſpell, the true people of God, and Saint-like Impostors,</hi> who have <hi>masked</hi> the fouleſt in<g ref="char:EOLhyphen"/>tentions under the faireſt pretences.</p>
+            <div n="1" type="section">
+               <head>1. The Mid<g ref="char:EOLhyphen"/>wifry of the Act for Pro<g ref="char:EOLhyphen"/>pagation of the Goſpell in <hi>Wales.</hi>
+               </head>
+               <p>In the yeare 1649. There was an Act paſſed by the <hi>Parlia<g ref="char:EOLhyphen"/>ment, Intituled, An Act for the Propagation of the Goſpell in Wales.</hi> A ſpecious Title; But how farre <hi>cunning Heads,</hi> and bold <hi>Informers</hi> may impoſe upon a <hi>Parliament,</hi> and abuſe a wiſe Councell; This one Act may be a ſufficient evidence; teaching others to be more circumſpect and cautelous hereafter. For ſome men of their own <hi>Nation,</hi> driving more at ſelfe ends and intereſts then the <hi>Glory of God,</hi> or the <hi>Propagation</hi> of <hi>Chriſts Goſpell</hi> (as the iſſue of their <hi>Actions</hi> hath now fully diſcovered their Aymes) did repreſent, to the Honourable Houſe of <hi>Parliament,</hi> the condition of <hi>Wales</hi> as moſt ſad, and deplo<g ref="char:EOLhyphen"/>rable, overſpread with Ignorance and Profanneſſe (as the words <hi>Run</hi> in the ſaid <hi>Act;</hi>) I As though <hi>Wales</hi> were ſtill a <hi>Land of Darkneſſe,</hi> the poore Inhabitants thereof out of <hi>Chri<g ref="char:EOLhyphen"/>ſtendome,</hi> ſitting in the <hi>Region and ſhadow of Death;</hi> Which <hi>Information</hi> (though a frontleſſe untruth in it ſelfe, and a ſhameleſſe <hi>Asperſion</hi> upon the whole <hi>Nation,</hi> as we ſhall ſhew anon,) yet ſerved to bring their ends about, who framed it. The Inhabitants thereof having few Repreſentatives to make known the true ſtate of their Country, For the <hi>Parliament</hi> in their Charity to the Countrey, and care of the publick good, <hi>Did</hi> take this <hi>Land of Darkneſſe</hi> into <hi>Conſideration,</hi> And did put the Act above mentioned upon the Anvill to be framed and filed for the Worke, pretended and deſired.</p>
+               <p>
+                  <hi>This was the Midwifry of this Act, and the manner of bringing it to the Birth.</hi>
+               </p>
+               <p>Now for the <hi>Munagery</hi> thereof, and how it was executed, we <hi>intend</hi> herein to declare with all Plainneſſe, Sincerity and Candor, and with as much <hi>Charity</hi> towards the <hi>Actors,</hi> as the truth of the Relation will permit.</p>
+               <pb n="3" facs="tcp:42119:3"/>
+            </div>
+            <div n="2" type="section">
+               <head>2. Concerning the ignorance, and profane<g ref="char:EOLhyphen"/>neſſe, caſt up<g ref="char:EOLhyphen"/>on the Nation.</head>
+               <p>But wee will firſt ſpeake ſomething to the Ignorance, Hea<g ref="char:EOLhyphen"/>theniſme, and Profaneneſſe caſt upon the Nation by thoſe, that did owe better Offices to their Countrey, and then proceede what we chiefly intend in this Narration.</p>
+               <p>And wee ſay firſt (and ſpeake it to Gods Glory, and not our own) That not onely our Nation was converted to Chri<g ref="char:EOLhyphen"/>ſtianity as ſoone almoſt as our Saviour ſuffered; But alſo the Countries of <hi>Wales</hi> are by the bleſſing of God, and the light of the <hi>Gospell of Chriſt Jeſus</hi> civilized in a very good meaſure,<note place="margin">1. A vindica<g ref="char:EOLhyphen"/>tion of the Laity.</note> and in an equall degree to diverſe places of <hi>England;</hi> The <hi>Gentry</hi> are Men of <hi>Knowledge, Religion,</hi> and <hi>Breeding,</hi> moſt of them having had their <hi>Education</hi> in the beſt Schooles and Uni<g ref="char:EOLhyphen"/>verſities of this Land; And the Commonalty generally care<g ref="char:EOLhyphen"/>full to bring up their Children in Private Schooles. So that they are farre from that wild Heatheniſme, and brutiſh Ig<g ref="char:EOLhyphen"/>norance, which theſe Men have injuriouſly aſperſed th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m with.</p>
+               <p>
+                  <note place="margin">2. Of the Mi<g ref="char:EOLhyphen"/>niſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry.</note>And in the ſecond place for the <hi>Miniſtery,</hi> (To paſſe by many Apoſtolicall Martyrs, and Planters of <hi>Religion</hi> here a<g ref="char:EOLhyphen"/>mong us,) We ſay, That the <hi>Miniſters</hi> of theſe Countries were not ſo few, nor ſo illiterate, nor ſo idle in their Function and Miniſtery, That any ſhould feare the people (committed to their charge) were in a periſhing ſtate. Some of our owne Nation (for a mans worſt foes are of his owne Houſehold) Have Preached, and alſo Printed it for a preparative to the ſaid Act, and to bring this <hi>Trojan</hi> horſe into their Countrey; That there were not <hi>thirteene</hi> painfull <hi>Preachers</hi> in the <hi>thir<g ref="char:EOLhyphen"/>teene Counties of</hi> Wales. <hi>God is mercifull, and may pardon Pul<g ref="char:EOLhyphen"/>pit-ſlanders, and untruths, which are delivered openly in the face of Divine Majesty;</hi> But how great an untruth this is, we could ſoon <hi>evince</hi> if we were pleaſed (not ſpeaking of divers moſt painefull and Reverend <hi>Miniſters</hi> therein of former times, and in our memory) To give here a Liſt of the Doctors, Batchelours of Divinity, Maſters of Acts, and other able men of Inferiour degree in the Univerſities, that were lately plan<g ref="char:EOLhyphen"/>ted in theſe parts, whoſe <hi>Doctrine dropt as the Raine, and made the Mountaines of</hi> Gilboah <hi>fruitfull.</hi>
+               </p>
+               <p>A great noiſe was made about the ſcandalous and illite<g ref="char:EOLhyphen"/>rate
+<pb n="4" facs="tcp:42119:4"/>
+                  <hi>Miniſters</hi> of <hi>Wales.</hi> We do confeſſe as in the neateſt Gar<g ref="char:EOLhyphen"/>dens, there are ſome weeders, ſo there might be ſuch in the Countrey; for there is, and ever will be in all Profeſſions ſome that are ſcandalous to their Profeſſion, yet there were fewer of theſe, then the Report made them. But there were ſcan<g ref="char:EOLhyphen"/>dalous <hi>Livings</hi> too in theſe Countries, as well as ſcandalous <hi>Miniſters,</hi> and <hi>thoſe produced theſe.</hi> There were <hi>Vicaridges</hi> of twenty Markes a yeare and under that; There were <hi>Impro<g ref="char:EOLhyphen"/>priators</hi> that would have <hi>Curats</hi> of the cheapeſt rate they could get, and every Pariſh was ambitious to have a <hi>Peculiar Mi<g ref="char:EOLhyphen"/>niſter;</hi> For Pluralities of Benefices was not long ſince as great a ſinne as Pluralities of Wives, though now an <hi>Itinerant</hi> may ſupply twenty; So theſe ſmall meanes could have Men but of ſmall Abilities. But thoſe Benefices that were Preſenſative, and were endowad with competent maintenance, They were filled with able Teachers, whoſe lips did preſerve knowledge, and whoſe Lives were conſonant to their Doctrine.</p>
+               <p>If the Gentlemen of the <hi>Eccleſiasticall Commiſſion,</hi> had trim'd the Lampes of the Church, or ſnuff'd the Candles that burnt dim, if they had ſpur'd up the Lazy, and ſharply admoniſhed thoſe that were fallen, if they had winnowed the Chaffe from the Wheate; purged out the ſcan<g ref="char:EOLhyphen"/>dalous <hi>Miniſters</hi> onely, they had done <hi>God</hi> and the <hi>Church</hi> good ſervice, but wee have found their ends and aimes to be farre more miſterious; <hi>Satan</hi> deſiring not to Winnow out the <hi>Beneficiaires,</hi> but the <hi>Benefices,</hi> not <hi>Miniſters,</hi> but their Li<g ref="char:EOLhyphen"/>vings.</p>
+            </div>
+            <div n="3" type="section">
+               <head>3. The mana<g ref="char:EOLhyphen"/>ging of the <hi>Act.</hi>
+               </head>
+               <p>
+                  <hi>But to returne from this Digreſſion into the Road, where we left. And to ſhew how the ſaid Act was managed, and put in Execution.</hi>
+               </p>
+               <p>For the better <hi>Propagation</hi> of the <hi>Gospell</hi> in this Countrey, the <hi>Miniſters</hi> of the <hi>Goſpell</hi> muſt be extirpated. This was Re<g ref="char:EOLhyphen"/>ſolved on by ſome of the Commiſſioners (intruſted for that Worke) before hand; we could name the place, where they entred into this holy <hi>League;</hi> And their owne Tongues diſ<g ref="char:EOLhyphen"/>covered their Reſolutions.</p>
+               <pb n="5" facs="tcp:42119:4"/>
+               <p>For one of them, and one of the higheſt forme too, and who indeed was <hi>(Eccleſiæ peſtis &amp; fundi nostri calamitas)</hi> the Ruine of our Church, could ſay to a Petitioning Miniſter,<note place="margin">Major Gen. <hi>Harriſon.</hi>
+                  </note> 
+                  <hi>That his face was against all of the Order.</hi>
+               </p>
+               <p>Another could ſay, That <hi>All</hi> of them muſt be taken off from their Cures, and this man was the <hi>Hand</hi> of this Committee, as the other was the <hi>Mouth.</hi> A third (when a <hi>Miniſter</hi> did crave his favour) ſaid, it was in vaine to ſtrive, for <hi>All</hi> were to be <hi>Outed</hi> firſt or laſt. And a fourth, (and he a Preaching Pro<g ref="char:EOLhyphen"/>perty, belonging to the Worke) Did often Preach, <hi>That the Son of the Bond woman, must not inherit with the Son of the Free-woman,</hi> which Text he hath ſince more cleerly expoun<g ref="char:EOLhyphen"/>ded, by putting this in practice, and caſting them out of their Inheritance.</p>
+               <p>Thus according to the <hi>Weſtphalian Law,</hi> their Judges had paſt their Sentence upon them, before any offendor was brought to the <hi>Bar,</hi> their Profeſſion was declared <hi>Antichristi<g ref="char:EOLhyphen"/>an,</hi> and unlawfull, and their Calling a Crime; For many were Ejected, and they know not as yet, wherefore, but becauſe they were <hi>Miniſters. Euſebius</hi> complaines, that <hi>Diocleſian</hi> tooke away the <hi>Presbyters,</hi> But <hi>Julian</hi> the <hi>Presbytery;</hi> So here the Ax is laid to the Roo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of their Calling, to hew down, and levell the very Function; If it were not ſo meant, ſurely ſome of the old Clergy might have been thought worthy and fit to keepe their Stations. For all had not corrupted their wayes, all were not ſcandalous, nor illiterate, nor dumbe Dogs, as their common phraſe and application was before their Eject<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Now as in the caſe of <hi>Naboth,</hi> though his <hi>Vineyard</hi> was al<g ref="char:EOLhyphen"/>ready forfeited in <hi>Ahabs</hi> thoughts, who was reſolved to have it, yet to compaſſe it more plauſibly, there muſt be legall pro<g ref="char:EOLhyphen"/>ceedings to condemne his perſon: Sons of <hi>Belial</hi> muſt be h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to prove the pretended Crime, that ſo he might commit. Mur<g ref="char:EOLhyphen"/>ther and Robbery, in the habit of a Judge: So here in their bu<g ref="char:EOLhyphen"/>ſineſſe, though their Judges had already prejudged them, and others had already caſt Lots upon their Inheritance, and divi<g ref="char:EOLhyphen"/>ded the ſpoile, (which was the chiefe <hi>Propagation</hi> of the <hi>Go<g ref="char:EOLhyphen"/>spell,</hi> that ſome aimed as, and the onely thing that made
+<pb n="6" facs="tcp:42119:5"/>them all criminall) yet to give the matter ſome gloſſe, and tincture of Juſtice, it muſt be carried on in the forme of a Legall <hi>Proces.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>4. The <hi>Itine<g ref="char:EOLhyphen"/>rants</hi> became Captaines.</head>
+               <p>Obſerve how warily they proceede. That the Action may be better countenanced, and attended, Commiſſioners are obtained by ſuch as were to be <hi>Itinerants,</hi> Goſpell Preachers (as they are termed) and ſome of them approvers nominated in the Act. They raiſe Horſe and Foote in moſt Counties, e<g ref="char:EOLhyphen"/>ſpecially in <hi>South-wales,</hi> with which they ſuppreſſe the poore <hi>Miniſters,</hi> and diſcourage, and affrighten their ſeverall Con<g ref="char:EOLhyphen"/>gregations from following and aſſiſting them; That this great Worke may goe on, and be more vigorouſly put in execution, with ſuch Inſtruments, the cry of the Children Sacrificed unto <hi>Moloch,</hi> muſt be drowned and ſuppreſſed, wee believe they have left but few other Monuments of their valour unto poſte<g ref="char:EOLhyphen"/>rity. We could name their perſons, and Counties, and Acti<g ref="char:EOLhyphen"/>ons, but that we are reſolved neither to digreſſe, nor ſtigmatize them.</p>
+               <p>The firſt thing they doe, is to diſarme the <hi>Ministers,</hi> by diſ<g ref="char:EOLhyphen"/>abling them of any meanes of defence; And to performe this the better at a private meeting of ſome of the Commiſſioners; All Tithes in generall were ſequeſtred in the County of <hi>Rad<g ref="char:EOLhyphen"/>nor,</hi> before any of the <hi>Miniſters</hi> are queſtioned; Thus they are ſent to the Field without weapons, They may ſue and Appeale, but they ſhall do it, <hi>ſub formâ Pauperum,</hi> poore Men, they are expoſed to ruine without Mercy, being utterly deprived of any means either of ſubſiſtence or defence.</p>
+            </div>
+            <div n="5" type="section">
+               <head>5. Regiſters, Sollicitors, choſen.</head>
+               <p>This being done, and <hi>All obſtacles Removed, Registers</hi> are named, <hi>Articles</hi> muſt be exhibited, Sollicitors muſt be ap<g ref="char:EOLhyphen"/>pointed to receive Accuſations, and Witneſſes muſt be exami<g ref="char:EOLhyphen"/>ned with all cloſeneſſe, and ſecrecy without their knowledge or privity; Yet there is neither Commiſſioner, nor Regiſter, nor Sollicitor, nor any other Officer ſworn, nor any ſet Exa<g ref="char:EOLhyphen"/>miner of all: And who are their Accuſers, ad Witneſſes againſt them?</p>
+            </div>
+            <div n="6" type="section">
+               <head>6. Who are Ac<g ref="char:EOLhyphen"/>cuſers, and Witneſſes a<g ref="char:EOLhyphen"/>againſt them.</head>
+               <p>Truly they, who enjoyed their Houſes, or Glebes, or Tithes (A tender of a good bargain of any parcell of their Tithes, being made to ſuch as would joyne with them to doe this great Worke they had in hand.) And judge you,
+<pb n="7" facs="tcp:42119:5"/>whether that Helliſh Aphoriſme was not put to the uttermoſt? <hi>Calumniare fortiter, &amp; aliquid inhærebit.</hi>
+               </p>
+               <p>They are Reſolved to brand them deeply, That their Mar<g ref="char:EOLhyphen"/>kes may appeare, being ſpitefull Accuſers to ſuggeſt any thing, And ſuch bold Witneſſes, that no want of proof might fruſtrate the Ejectment.</p>
+               <list>
+                  <item>1. They laid to their charge things that they knew not <hi>Pſal.</hi> 35.11. Contrary to all Verity, <hi>ſtruunt de proprio calumnias innocentiæ.</hi>
+                  </item>
+                  <item>2. They wreſted their words, <hi>Pſal.</hi> 56.5. contrary to all Ingenuity.</item>
+                  <item>3. And they preſſed the very rigor of the Letter of the Act againſt them, being not the intent and ſenſe of the Enactours, contrary to all Equity.</item>
+               </list>
+               <p>The ſmaleſt offences of 20 or 30 yeares ſtanding, were freſhly Arraigned as Capitall Crimes, and their leaſt Infirmities were unpardonable, without any reſpect, had either to their Abilities, fidelity in their Cal<g ref="char:EOLhyphen"/>lings, or ſubmiſſion to that preſent Govern<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Thus they purſued them ſo hard, That they could not give them over, as long as they had any thing worth the looſing.</p>
+               <q>
+                  <l>Sic Reus omnis orit, de quo victoria lucro</l>
+                  <l>Eſſe potest—Ovid.</l>
+               </q>
+               <p>When they or their diſtreſſed Wives came to the Doores, either to <hi>Petition,</hi> or to heare their accuſation (though their good Names, and Being lay at the ſtake) yet they are vio<g ref="char:EOLhyphen"/>lently thruſt back, or ſcornfully abuſed, and trampled upon by the <hi>Itinerants</hi> Souldiers, prepared for theſe inſo<g ref="char:EOLhyphen"/>lencies.</p>
+               <p>How then could they chooſe, but be found Guilty, when they had beene long before condemned; And ſo by this formall kinde of Judicature (this pompe and Ceremony of Juſtice) they thought they had ſuffi<g ref="char:EOLhyphen"/>ciently ſatisfyed the people, though wee confidently believe, they had either lulled aſleepe, or ſeared up their own conſciences.</p>
+               <pb n="8" facs="tcp:42119:6"/>
+               <p>But to make up the <hi>Sceane</hi> and ſolemnity of this <hi>Aſſize,</hi> A Preacher<note n="*" place="margin">
+                     <hi>Va Powell</hi> preaches a railing Ser<g ref="char:EOLhyphen"/>mon.</note> muſt come in to Act a part, and that truſt be the D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vells part, To be an <hi>Accuſer of the Brethren,</hi> Rev. 12.10. and to do that, which <hi>Michael</hi> durſt not do againſt the <hi>Ac<g ref="char:EOLhyphen"/>cuſer</hi> himſelfe, that is, <hi>bring a rayling accuſation againſt him;</hi> And that in the <hi>Pulpit,</hi> and in numerous Aſſemblies and con<g ref="char:EOLhyphen"/>courſe of people come together from ſeverall Counties,<note place="margin">Jud. 9.</note> 
+                  <hi>Re<g ref="char:EOLhyphen"/>viling</hi> them as the worſt and vileſt of men, and condemning them <hi>for unſavory Salt,</hi>
+                  <note place="margin">Mat. 5.13.</note> 
+                  <hi>fit onely to be throwne into the Dung<g ref="char:EOLhyphen"/>hill, and to be troden upon.</hi> When wee call to minde King <hi>Da<g ref="char:EOLhyphen"/>vids</hi> enemies, whoſe Tongues were Speares and Arrowes, and Razors, and ſharpe Swords, as though their Mouthes had been an Armory or Magazine; This man was not inferi<g ref="char:EOLhyphen"/>or to them for ſuch Artillery, and was as free of them as they were, which he ſhot at all of the profeſſion, without any diſtinction, There was not one Grape of the cluſter good and ſound.</p>
+               <p>
+                  <hi>O Modeſty and Charity, where are yee fled? O the mercy, and goodneſſe of God, and the cruelty of men?</hi>
+               </p>
+               <p>His chiefe Aime and taske was to <hi>Murther</hi> their good names, and to poſſeſſe the people how juſtly they were diveſted of all their fortunes, putting them in all the <hi>deformed ſhapes</hi> he could invent, to ſtirre up the people to a hatred of them and their calling, accounting them (as another of that ranke did.) To be men, forſaken of God and man.</p>
+               <p>Thus as the Ancient Chriſtian <hi>Martyrs,</hi> they are tranſform<g ref="char:EOLhyphen"/>ed into other ſhapes, and clad in the Skins of wild Beaſts, that they might be ſooner faſtned upon, and torne in pieces.</p>
+               <p>But we will paſſe over this hired <hi>Balaam,</hi> for which hee re<g ref="char:EOLhyphen"/>ceived the wages of unrighteouſneſſe; And when you heare that he railed for that, you may ſuppoſe he did it to ſome pur<g ref="char:EOLhyphen"/>poſe, though hee was a ſtranger in the Countrey, where hee Preached, and knew not one of the <hi>Miniſters</hi> (by face) hee did ſo roundly raile againſt: but we finde now, it is his <hi>Pocket-Invective,</hi> through which hee travaileth, ſeeing his preſent <hi>Highneſſe the Lord Protector, his ſage Councell,</hi> the <hi>Comman<g ref="char:EOLhyphen"/>ders,</hi>
+                  <pb n="9" facs="tcp:42119:6"/>Officers and Souldiers, have not eſcaped him; what could the poore <hi>Miniſters,</hi> (whoſe calling he accounteth uſcles and <hi>Antichriſtian</hi>) expect at his hands.</p>
+               <p>
+                  <hi>This was the courſe and Method of the Propagation of the Goſpell in</hi> Wales.</p>
+            </div>
+            <div n="7" type="section">
+               <head>7. The Poverty of the ejected Miniſters.</head>
+               <p>And now their Perſons b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing thus defamed, and their Meanes S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>queſtred, they are expoſed to Poverty and want in their old Age, and are like to bring their gray haires with ſor<g ref="char:EOLhyphen"/>row to the Grave, moſt of them having not as much as a Houſe to put their heads in, but during pleaſure, which was but a ſickle <hi>Tenure,</hi> conſidering the affection and quality of their Landlords, they could nor be <hi>Tenants</hi> to their meanes, they were denyed not onely their Tithes, but alſo their Gleabes and Houſes upon Rent. Nay a Command was given by the Commander in chiefe<note n="*" place="margin">Major Gen. <hi>Harriſon.</hi>
+                  </note> (then) among them, for the <hi>Tumbling of them out of their Houſes,</hi> to uſe his owne words, of which command many felt the <hi>execution;</hi> And ſo were <hi>unhouſed,</hi> as well at <hi>unchurched.</hi> The Prophet <hi>Jeremy</hi> compained that his Countreymen, <hi>Dranke their Wa<g ref="char:EOLhyphen"/>ter for money, and their Wood was ſould unto them,</hi> that is,<note place="margin">Lam. 5.4.</note> they were faine to pay for their owne, But theſe found har<g ref="char:EOLhyphen"/>der uſage then they: <hi>They could not have their owne for Money.</hi>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <head>8. The fift either denyed or undervalued.</head>
+               <p>And to compleat their M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeries to the uttermoſt of their endeavours, Though there was Proviſion made by the <hi>Act</hi> for <hi>Propagation,</hi> for a <hi>Fift part</hi> towards the maintenance of their Wives, Children and Families, yet by the undervalua<g ref="char:EOLhyphen"/>tions made by the mercileſſe <hi>Sequeſtrators,</hi> and their Far<g ref="char:EOLhyphen"/>mours, and the tedious Petitioning to the <hi>Commiſſioners</hi> for the obtaining thereof (which wearied them and their poore Wives, with many hopeleſſe journeys, and doubtfull An<g ref="char:EOLhyphen"/>ſwers.) They brought it to nothing, but labour and ex<g ref="char:EOLhyphen"/>pence unto them, ſo that their Condition herein being like thoſe <hi>Inhabitants</hi> of a <hi>Towne in Holland,</hi> who upon ſurren<g ref="char:EOLhyphen"/>ding were promiſed their lives by the D. of <hi>Alva</hi> but after delivery they were ſtarved to Death, they were R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſolved
+<pb n="10" facs="tcp:42119:7"/>(having ſpent the Water in their Bottles) to lay downe their Wives and Children before the <hi>Lord, lifting up their voyces and weeping</hi> before him,<note place="margin">Gen. 21.15, &amp;c.</note> hoping that the time of their Deliverance is at hand.</p>
+            </div>
+            <div n="9" type="section">
+               <head>9. The Appeal a remediles courſe.</head>
+               <p>
+                  <hi>But you will ſay they were justly and legally outed, and ejected, otherwiſe why did not they take the benefit of Appeale?</hi>
+               </p>
+               <p>It was a remedy worſe then the diſeaſe, The manner of their proceeding, according to the ſaid Act being as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <list>
+                  <item>1. Five Commiſſioners Examine and Eject.</item>
+                  <item>2. Twelve, upon the Ejected's Complaints, were to Review and Determine.</item>
+                  <item>3. The twelve Commiſſioners upon the Ejecteds Appeales, were to transfer and Certifie the proceedings to the Commit<g ref="char:EOLhyphen"/>tee for Plundred <hi>Miniſters.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Now the Twelve did ſeldome meete, living remote, the one from the other, and the time and place of their meeting, was not uſually publiſhed, nor generally knowen.</hi>
+               </p>
+               <p>And ſuppoſe that the twelve did meete: was it probable That they who <hi>adjudged</hi> the Cauſe would transfer and certi<g ref="char:EOLhyphen"/>fie againſt their owne <hi>Judgements?</hi> And there was no <hi>Pro<g ref="char:EOLhyphen"/>viſion</hi> in the Act to inforce them, in caſe they refuſed: But ſuppoſe they ſhould <hi>transfer</hi> and <hi>certifie</hi> the <hi>Proceedings,</hi> yet the Act diſabled the <hi>Appellants</hi> to examine any more Wit<g ref="char:EOLhyphen"/>neſſes (whereas many of their depoſitions might be laid down contrary to the <hi>examinants intentions;</hi> moſt of them being illi<g ref="char:EOLhyphen"/>terate perſons, and ignorant of the Engliſh Tongue) and were thereby made uncapable of their juſt defence; ſo that being once ejected, they receive ſmall benefit by their Ap<g ref="char:EOLhyphen"/>peales.</p>
+               <pb n="11" facs="tcp:42119:7"/>
+               <p>Nay if any that conceived himſelfe <hi>aggreived</hi> therein, did ſeeke any <hi>Remedy</hi> in Law, which is afforded to all others the free <hi>People of the Nation:</hi> The <hi>Commiſſi<g ref="char:EOLhyphen"/>oners</hi> named in the ſaid Act (as they were <hi>Commiſ<g ref="char:EOLhyphen"/>ſioners of Indemnity,</hi>) Had Power <hi>to inforce Obedience,</hi> and <hi>Submiſſion</hi> to their <hi>Orders, ſtop</hi> all the proceedings of the ejected <hi>Miniſters:</hi> And <hi>Indemnifie</hi> themſelves, and their Agents for any thing done by colour of the ſaid Act.</p>
+               <p>Who can finde out a Clue in ſuch a labyrinth to lead him forth? This we may boldly ſay, That the <hi>Profoundeſt ſubtilities</hi> of the ambiguous, and intrapping <hi>Articles</hi> of ſome former projects (which we leave to your thoughts) cannot out-bid the <hi>Invention</hi> and <hi>Contrivement</hi> of this remediles <hi>Dilemm</hi> of <hi>Appeale.</hi>
+               </p>
+            </div>
+            <div n="10" type="section">
+               <head>10. They are commanded not to preach.</head>
+               <p>But this is not all, They are thought not to be ſufficiently puniſhed, by being deprived of their meanes, but they muſt be robbed of their calling alſo; Being ſtraightly threatned and commanded not to ſpeake at all, nor teach in the name of <hi>Jeſus;</hi> ſo that for their Talents what over they are, They are charged to lay <hi>them up in their Napkins,</hi> or <hi>bury them under ground,</hi> for with their leaves they muſt not uſe and imploy them, though they earneſtly did, and doe deſire to continue their paines in <hi>Gods Vineyard</hi> freely, expecting their reward from the <hi>Lord of the Vineyard</hi> onely, but it would not be granted.</p>
+            </div>
+            <div n="11" type="section">
+               <head>11 Keepe Schoole.</head>
+               <p>Nay when ſome of them reſolving by Gods Aſſiſtance to obey God rather then men, did hold forth the word of truth un<g ref="char:EOLhyphen"/>to thouſands of people, who to this day <hi>endure a Famine</hi> thereof; They were drawn by the neckes out of the Pulpits, abuſed, threatned, and impriſoned: and when others went about to keepe private <hi>Schooles,</hi> for the ſupport of themſelves and Families, they were ſtraitly commanded to ſuperſede from that imployment: And we muſt tell you, it was not ſafe to diſ<g ref="char:EOLhyphen"/>obey ſuch Ruling Maſters.</p>
+            </div>
+            <div n="12" type="section">
+               <head>12 The Pa<g ref="char:EOLhyphen"/>riſhes not ſup<g ref="char:EOLhyphen"/>plied.</head>
+               <p>Among all this their Complaintes, wee may not forget thoſe of their reſpective Congregations, who are forced to pay their Tithes more exactly then ever they did before; And yet have nothing in lieu thereof, neither the comfort
+<pb n="12" facs="tcp:42119:8"/>of Praying, and Preaching, nor Sacraments, nor viſiting the ſick, nor of any decency of Buriall, for few or none are ſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſti<g ref="char:EOLhyphen"/>tuted to theſe Offices in the roomes of thoſe that performed them: And for the number of the <hi>Itinerants</hi> in each County, (whoſe Fathers had deſigned them to other vocations,) they do goe up and down the Countrey to preach <hi>where,</hi> and <hi>when</hi> they pleaſe themſelves: ſo that men are glad to hear a <hi>Sermon</hi> in ſome places <hi>once in a twelve moneth,</hi> and in moſt places once in a moneth; That were wont to have <hi>one</hi> at leaſt, <hi>every Lords Day.</hi>—<hi>Ei ſuccus pecori &amp; lac ſubducitur agnis.</hi>
+               </p>
+               <p>The Children <hi>crie for Bread (the Bread of life)</hi> and there is none to give it them, or elſe inſtead of Bread they have but a <hi>Scorpion,</hi> and are fed with <hi>Poyſon</hi> inſtead of <hi>Manna,</hi> and wholeſome food, to wit, the poyſon of falſe Doctrine, Hereſie and Sedition, being leavened with the ſowreſt Tenets of <hi>Ana<g ref="char:EOLhyphen"/>baptiſme,</hi> and whoſe wayes (as is now too apparent) are de<g ref="char:EOLhyphen"/>ſtructive to <hi>Magiſtracy,</hi> as well as <hi>Miniſtery,</hi> which they boldly vent among their hearers.</p>
+               <p>
+                  <hi>And this is a plaine and briefe</hi> Account <hi>of the</hi> Proſecution, <hi>and</hi> Managery <hi>of the</hi> Act <hi>for the better</hi> Propagation of the Goſpell in Wales; <hi>and let all Chriſtian people judge What Propagation this was.</hi>
+               </p>
+            </div>
+            <div n="13" type="section">
+               <head>13. Concluſi<g ref="char:EOLhyphen"/>on.</head>
+               <p>But if this Relation ſtagger any mans Faith, or may ſeeme to him like thoſe <hi>Marandæ auditiones</hi> of <hi>Aristotle,</hi> more like a <hi>fiction</hi> 
+                  <note place="margin">Sen.</note> then reall truth <hi>(Majora veris monſtra vix ca<g ref="char:EOLhyphen"/>piunt fidem)</hi> wee make bold to proteſt with the Apoſtle, That wee take <hi>God</hi> to Record upon our Soules, wee have delivered nothing but truth, paſſing by many Indignities, and Affronts, with diverſe Acts of cruelty, unfit to be acted by any towards their fellow Creatures, much more towards their fellow <hi>Chriſtians;</hi> And ſince they will not give them leave to Preach, They will take leave to pray, That ſince they have <hi>no part nor portion left them in the Land,</hi> That God would be their <hi>Lot, an their Portion,</hi> and then they ſhall not want, that he would grant them to <hi>runne with patience the Race that
+<pb n="13" facs="tcp:42119:8"/>is ſet before them, looking up to Jeſus the author and finiſher of their Faith.</hi>
+                  <note place="margin">1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Tim. 1.13. Heb. 12.20.</note> And that hee would bleſſe their <hi>Widowed Congregati<g ref="char:EOLhyphen"/>ons,</hi> and guide them with his <hi>Holy Spirit, That they may hold faſt the forme of Doctrine, which was once delivered unto them;</hi> And that the great Shepheard of the Sheepe, would continu<g ref="char:EOLhyphen"/>ally Leade and Governe them, To whoſe Gratious care and Protection, they doe heartily <hi>Recommend</hi> them in their <hi>Prayers.</hi>
+               </p>
+               <p>
+                  <note place="margin">1. That the re<g ref="char:EOLhyphen"/>verend Mini<g ref="char:EOLhyphen"/>ſters of <hi>England</hi> would commi<g ref="char:EOLhyphen"/>ſerate the Mi<g ref="char:EOLhyphen"/>niſters.</note>And <hi>doe earneſtly beſeech you</hi> (<hi>the Reverend Miniſters of the Gospell of</hi> Jeſus Chriſt <hi>in</hi> England) <hi>to lay to heart, and be grieved for the affliction of your poore</hi> Joſephs, <hi>the ejected</hi> Miniſters <hi>of</hi> Wales. And to be a meanes (at leaſt) that their Wives and Children may enjoy a competency of liveli-hood, and ſubſiſt<g ref="char:EOLhyphen"/>ence, and that they may underſtand what hath beene laid to ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Charge, and be made capable without expence (being wholy diſabled) to make their <hi>anſwer thereunto.</hi>
+               </p>
+               <p>
+                  <note place="margin">2. And Chur<g ref="char:EOLhyphen"/>ches of <hi>Wales.</hi>
+                  </note>O! mou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne for <hi>the affliction of your diſconſolate Siſter: Is it nothing to you that paſſe by? Behold and ſee if there be any ſorrow like unto he ſorrow. All beauty is departed from her</hi> Sion,<note place="margin">Lam 1.12.</note> 
+                  <hi>the Lord hath taken away the Tabernacle, deſtroyed his places of the Aſſembly, and cauſed the ſolemne Faſt, and Sabbaths to be forgotten among them:</hi>
+                  <note place="margin">Lam. 2.6.</note> 
+                  <hi>Is this nothing to you?</hi>
+               </p>
+               <p>
+                  <hi>O! Shee is your little Siſter, and ſhee hath (now) no Breaſts,</hi>
+                  <note place="margin">Can. 8.8.</note> 
+                  <hi>What will ye do for your Siſter in the day when ſhe ſhall be spoken for?</hi>
+               </p>
+               <p>
+                  <hi>O comfort her by the Comfort,</hi>
+                  <note place="margin">2 Cor. 1.4.</note> 
+                  <hi>wherewith yee your ſelves have been Comforted of God; Plead her cauſe, as the Lord hath plea<g ref="char:EOLhyphen"/>ded yours. For if it had not been the Lord, who was on your ſide</hi> (<hi>may now the</hi> Miniſters <hi>of</hi> England <hi>ſay</hi>) <hi>if it had not been the Lord, who was on your ſide,</hi>
+                  <note place="margin">Pſal. 124.1.2.</note> 
+                  <hi>when their Enemies roſe up againſt you alſo; Then they had ſwallowed you up, and thoſe proud Waters had overwhelmed, and gone over your ſoules.</hi>
+               </p>
+               <p>
+                  <hi>But prayſed be God,</hi> who hath raiſed you a Mighty deliver<g ref="char:EOLhyphen"/>er in the Day of your tryall, and praiſed by the God of your Salvation.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
